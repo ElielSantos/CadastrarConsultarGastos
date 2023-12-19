@@ -1,3 +1,3 @@
-# JavaScript-Projetos
-Projetos feitos no curso Desenvolvimento Web Projetos com upgrades e comentario facilitando 
-https://consultar-gastos.vercel.app/
+# Aplicação para voce cadastrar e consultar seus gastos mensais, ele salva seus dados em localStorage(ou seja no seu navegador).
+
+ https://consultar-gastos.vercel.app/

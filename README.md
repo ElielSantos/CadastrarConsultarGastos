@@ -5,7 +5,7 @@ Aplicação para voce cadastrar e consultar seus gastos mensais, ele salva seus 
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/e4/bf/f2/e4bff2f36ed095ae3b7bfd85463d8785.png">
+      <img src="https://i.ibb.co/Qc9XfXC/md1.png">
     </td>
   </tr>
 </table>
